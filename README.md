@@ -20,3 +20,11 @@ This app is developed by Aadarsha Dhakal. You can reach out to me on Twitter [@a
 
 ## License
 This project is licensed under the [BSD 3-Clause License](https://github.com/aadarshadhakalg/scout/blob/main/LICENSE).
+
+## Screenshots
+
+<!-- First row -->
+| Image 1 | Image 2 | Image 3 |
+| ------- | ------- | ------- |
+| ![Tracking Time]([image1.jpg](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-52-07.png)) | ![Work Diary]([image2.jpg](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-52-15.png)) | ![My Contracts]([image3.jpg](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-53-06.png)) |
+
