@@ -1,16 +1,22 @@
-# scout
+# Scout: [Appwrite](https://appwrite.io) [Hashnode](https://hashnode.com) Hackathon
 
-A new Flutter project.
+Scout is a desktop application available for Linux (at the moment) that enables users/organizations to monitor and manage the productivity and working hours of remote employees. It offers features like time tracking and random screenshots capturing.
 
-## Getting Started
+## Tech Stack
+- Flutter
+- Appwrite Cloud
+    - Authentication
+    - Database
+    - Storage
 
-This project is a starting point for a Flutter application.
+## Setup Database
+Please refer to the images in setup folder to setup appwrite cloud databases.
 
-A few resources to get you started if this is your first Flutter project:
+## Issues and Contributions
+If you encounter any issues or would like to contribute to the project, feel free to open an issue or submit a pull request. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Author
+This app is developed by Aadarsha Dhakal. You can reach out to me on Twitter [@aadarshadhakalg](https://twitter.com/aadarshadhakalg) for any questions or feedback.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the [BSD 3-Clause License](https://github.com/aadarshadhakalg/scout/blob/main/LICENSE).
