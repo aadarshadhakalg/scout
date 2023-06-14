@@ -24,7 +24,7 @@ This project is licensed under the [BSD 3-Clause License](https://github.com/aad
 ## Screenshots
 
 <!-- First row -->
-| Image 1 | Image 2 | Image 3 |
+| Tracking | Work Diary | My Contracts |
 | ------- | ------- | ------- |
-| ![Tracking Time]([image1.jpg](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-52-07.png)) | ![Work Diary]([image2.jpg](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-52-15.png)) | ![My Contracts]([image3.jpg](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-53-06.png)) |
+| ![Tracking Time](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-52-07.png) | ![Work Diary](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-52-15.png) | ![My Contracts](https://github.com/aadarshadhakalg/scout/blob/main/screenshots/Screenshot%20from%202023-06-14%2022-53-06.png) |
 
