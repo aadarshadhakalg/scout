@@ -51,6 +51,7 @@ dependencies:
   form_field_validator: ^1.1.0
   animations: ^2.0.7
   intl: ^0.18.1
+  connectivity_plus: ^4.0.1
 
 dev_dependencies:
   flutter_test:

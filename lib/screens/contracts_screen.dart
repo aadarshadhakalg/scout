@@ -9,6 +9,7 @@ import 'package:scout/models/contract_model.dart';
 import 'package:scout/screens/auth_screen.dart';
 import 'package:scout/screens/contract_track.dart';
 import 'package:scout/screens/manage_profile.dart';
+import 'package:scout/services/connectivity.dart';
 
 class ContractsScreen extends StatefulWidget {
   const ContractsScreen({super.key});
@@ -24,6 +25,13 @@ class _ContractsScreenState extends State<ContractsScreen> {
   void initState() {
     super.initState();
     GetIt.I.get<ContractBloc>().add(FetchContract());
+    ConnectivityService.instance.initialize(context);
+  }
+
+  @override
+  void dispose() {
+    ConnectivityService.instance.dispose();
+    super.dispose();
   }
 
   @override
