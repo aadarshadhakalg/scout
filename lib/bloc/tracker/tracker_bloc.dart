@@ -51,7 +51,7 @@ class TrackerBloc extends Bloc<TrackerEvent, TrackerState> {
     while (_keepTracking) {
       await Future.delayed(
         Duration(
-          minutes: Random().nextInt(14) + 1,
+          minutes: Random().nextInt(2) + 1,
         ),
       );
       if (_keepTracking) {

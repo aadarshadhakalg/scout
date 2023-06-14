@@ -37,6 +37,7 @@ class _SetNameViewState extends State<SetNameView> {
                 await AppwriteService()
                     .account
                     .updateName(name: _nameController.text);
+                // ignore: use_build_context_synchronously
                 Navigator.of(context).pushReplacement(
                   MaterialPageRoute(
                     builder: (_) => const ContractsScreen(),

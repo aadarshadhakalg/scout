@@ -139,6 +139,7 @@ class _ContractsScreenState extends State<ContractsScreen> {
                 icon: const Icon(Icons.logout),
                 onPressed: () async {
                   await GetIt.I.get<AuthenticationCubit>().logout();
+                  // ignore: use_build_context_synchronously
                   Navigator.pushReplacement(
                     context,
                     MaterialPageRoute(

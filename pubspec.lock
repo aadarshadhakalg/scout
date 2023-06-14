@@ -242,7 +242,7 @@ packages:
     source: hosted
     version: "2.3.1"
   dbus:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: dbus
       sha256: "6f07cba3f7b3448d42d015bfd3d53fe12e5b36da2423f23838efc1d5fb31a263"
@@ -680,14 +680,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.3"
-  riverpod:
-    dependency: "direct main"
-    description:
-      name: riverpod
-      sha256: "80e48bebc83010d5e67a11c9514af6b44bbac1ec77b4333c8ea65dbc79e2d8ef"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.3.6"
   rounded_loading_button:
     dependency: "direct main"
     description:
@@ -781,14 +773,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.11.0"
-  state_notifier:
-    dependency: transitive
-    description:
-      name: state_notifier
-      sha256: "8fe42610f179b843b12371e40db58c9444f8757f8b69d181c97e50787caed289"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.7.2+1"
   stream_channel:
     dependency: transitive
     description:
